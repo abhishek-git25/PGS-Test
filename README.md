@@ -7,8 +7,10 @@ First, run the development server:
 ```bash
 npm run dev
 # Clone the project and npm install.
+# add .env file with NEXT_PUBLIC_POCKETBASE_URL = "https://pb.devpgs.app/"
 # Starts both the Pocket Base and the Next.s server using npm run dev
 # Project is good to go.
+
 # or
 yarn dev
 # or
